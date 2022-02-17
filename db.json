@@ -1,10 +1,9 @@
 {
-  "nft": [
+  "nft":
     {
       "description": "Test for YooSang Inc.", 
       "external_url": "https://openseacreatures.io/3", 
       "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
       "name": "ChoYooSang token"
     }
-  ]
 }
